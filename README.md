@@ -15,10 +15,10 @@ API designers can directly use APIGPT to train their own assistants, which can t
 
 ## Acknowledgments
 
-APIGPT is an open-source project. We would like to thank the following open-source projects and teams:
+We would like to thank the following open-source projects and teams:
 
-[ChatGPT API by OpenAI](https://openai.com) - Provides natural language understanding technology.
-[LanyingIM](https://lanyingim.com) - Provides professional IMSDK.
+- [ChatGPT API by OpenAI](https://openai.com) - Provides natural language understanding technology.
+- [LanyingIM](https://lanyingim.com) - Provides professional IMSDK.
 
 ## Contributing
 
